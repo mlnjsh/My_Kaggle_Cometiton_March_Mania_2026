@@ -1,0 +1,16 @@
+# =============================================================
+# Kaggle Notebook - Extra installs (pip install in first cell)
+# Most packages are pre-installed on Kaggle
+# =============================================================
+
+# Pre-installed on Kaggle (DO NOT install):
+# numpy, pandas, scipy, matplotlib, seaborn, plotly
+# scikit-learn, xgboost, lightgbm, catboost
+# torch, tensorflow
+# tqdm, jupyter
+
+# Install these extras in Kaggle notebook:
+optuna>=3.4.0
+shap>=0.43.0
+pytorch-forecasting>=1.0.0
+pytorch-lightning>=2.1.0

@@ -1,0 +1,23 @@
+{
+  "id": "march-ml-mania-2026-pipeline",
+  "title": "March ML Mania 2026 - Full Pipeline",
+  "code_file": "notebooks/full_pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": ["march-machine-learning-mania-2026"],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "keywords": [
+    "ncaa",
+    "basketball",
+    "march-madness",
+    "xgboost",
+    "lightgbm",
+    "ensemble",
+    "elo",
+    "temporal-fusion-transformer"
+  ]
+}

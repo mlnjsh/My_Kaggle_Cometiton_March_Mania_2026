@@ -1,0 +1,63 @@
+# Data files (too large for git, download from Kaggle)
+data/raw/
+data/processed/
+data/external/
+*.csv
+
+# Model artifacts
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Submissions
+submissions/
+
+# Temporary files
+.tmp/
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Kaggle
+kaggle.json
+
+# Large external files
+GA_TSF_26/
+GA_TSF_26.zip
+
+# CatBoost logs
+catboost_info/
